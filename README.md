@@ -1,1 +1,2 @@
 # Bihar Transportation Analysis Using R
+In this project, analysis of four major aspects to be considered in Bihar transportation is done, they are as follows: 1. Analysis of total collection (In Lakhs) from Bihar's different districts. 2. Analysis of Bihar's total count of two-wheeled, four-wheeled and buses (District-wise). 3. Pollution Analysis (District-wise). 4. Analysis of registered and unregistered trucks (District-wise).
